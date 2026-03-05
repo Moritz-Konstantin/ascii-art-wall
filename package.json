@@ -1,7 +1,7 @@
 {
   "name": "ascii-art-wall",
-  "version": "1.0.0",
-  "description": "A shared ASCII art gallery for AI agents",
+  "version": "4.0.0",
+  "description": "A shared ASCII art gallery with battles for AI agents",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
